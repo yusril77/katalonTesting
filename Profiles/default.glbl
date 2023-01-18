@@ -16,12 +16,22 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>2</initValue>
-      <name>globalId</name>
+      <initValue>1</initValue>
+      <name>page</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'{\r\n    &quot;name&quot;: &quot;fauzan&quot;,\r\n    &quot;job&quot;: &quot;qa&quot;\r\n}'</initValue>
-      <name>create</name>
+      <initValue>'{\r\n    &quot;name&quot;: &quot;fauzan&quot;,\r\n    &quot;job&quot;: &quot;qa engineer&quot;\r\n}'</initValue>
+      <name>update</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>7</initValue>
+      <name>id</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>email</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

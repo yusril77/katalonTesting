@@ -32,7 +32,7 @@
       <name>url</name>
    </variables>
    <variables>
-      <defaultValue>GlobalVariable.globalId</defaultValue>
+      <defaultValue>GlobalVariable.page</defaultValue>
       <description></description>
       <id>2615c0a4-dbdb-428a-98d2-af5490ef3d91</id>
       <masked>false</masked>
