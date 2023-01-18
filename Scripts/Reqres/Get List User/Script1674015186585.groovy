@@ -17,12 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-response = WS.sendRequest(findTestObject('Post Create', [('url') : GlobalVariable.baseUrl, ('create') : GlobalVariable.create
-            , ('variable_1') : '', ('variable_2') : '', ('variable_3') : '', ('variable_4') : '', ('variable_5') : '']))
+response = WS.sendRequest(findTestObject('Get List User', [('url') : GlobalVariable.baseUrl, ('id') : GlobalVariable.page
+            , ('variable_1') : '', ('variable_2') : '', ('variable_3') : '', ('variable_4') : '', ('variable_5') : '', ('variable_6') : ''
+            , ('variable_7') : '']))
 
-WS.verifyResponseStatusCode(response, 201)
+WS.verifyResponseStatusCode(response, 200)
 
-WS.verifyElementPropertyValue(response, 'job', 'qa')
+WS.verifyElementPropertyValue(response, 'page', 1)
 
-WS.verifyElementPropertyValue(response, 'name', 'fauzan')
+WS.verifyElementPropertyValue(response, 'data[0].id', 1)
 
