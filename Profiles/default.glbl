@@ -34,4 +34,54 @@
       <initValue>''</initValue>
       <name>email</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'!@%$!#'</initValue>
+      <name>specialCharPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bambang'</initValue>
+      <name>stringID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bambang'</initValue>
+      <name>stringPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'!@%$!#'</initValue>
+      <name>specialCharID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>4.33</initValue>
+      <name>doubleID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>4.33</initValue>
+      <name>doublePage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1945</initValue>
+      <name>exceedPage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1945</initValue>
+      <name>exceedID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'{\r\n    &quot;password&quot;: &quot;pistol&quot;\r\n}'</initValue>
+      <name>bodyWithoutEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'{\r\n    &quot;email&quot;: &quot;eve.holt@reqres.in&quot;\r\n}'</initValue>
+      <name>bodyWithoutPassword</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

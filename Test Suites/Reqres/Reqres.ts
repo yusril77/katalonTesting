@@ -12,28 +12,56 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>688c8a23-41f0-49c6-88ef-739ce6b11e1c</testSuiteGuid>
    <testCaseLink>
-      <guid>3109e52b-5333-4a21-8b9e-8eaccf2555c3</guid>
+      <guid>8638de1d-5a68-49bf-802d-633e8361378a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Reqres/Get List User with Invalid Page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dc553792-6881-49d1-af22-ffddff841f00</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Reqres/Get List User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3084460e-5f56-481e-9ac5-a7e0f10aaede</guid>
+      <guid>c64e7b2e-30f6-4a88-9ec6-99e8c329aa6e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Reqres/Get Single User with Invalid ID</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9f5cb849-9a03-4f8c-a0f3-be0500c7e955</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Reqres/Get Single User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>82c2a019-2531-47d8-949d-a6a8ec3ec520</guid>
+      <guid>086ab132-e779-4aa6-be07-8b13272eae3f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Reqres/Post Register Successful</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>60b052cd-f8a0-44eb-8a66-7c47c83b144b</guid>
+      <guid>2539a9f8-6248-4151-8ed1-ec71beb4733b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Reqres/Post Register with Invalid Body</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d1e9715c-4ddb-4a09-a9fb-82b2abf9216d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Reqres/Put Update without Body</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4cd82389-c507-4cd8-b7d8-4e045e624ca4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Reqres/Put Update</testCaseId>
